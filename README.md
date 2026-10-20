@@ -4,6 +4,8 @@ Planificador de entrenamientos en español con **Next.js 16 App Router, React 19
 TypeScript, Tailwind CSS 4 y Supabase**. Diseño oscuro adaptable a móvil, inspirado
 en los wireframes: inicio → editar calendario → seleccionar ejercicios.
 
+[Ver capturas de todas las pantallas](docs/VISTA-PREVIA.md) · [Validación realizada](docs/VALIDACION.md)
+
 ## Ejecutar ahora
 
 Requiere Node.js 22 o superior.
