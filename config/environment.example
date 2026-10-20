@@ -1,0 +1,11 @@
+# Copia este archivo a .env.local (todos los .env* están excluidos de Git).
+# Sin estas dos variables, la aplicación funciona en modo invitado local.
+NEXT_PUBLIC_SUPABASE_URL=https://YOUR_PROJECT.supabase.co
+NEXT_PUBLIC_SUPABASE_ANON_KEY=YOUR_PUBLIC_ANON_OR_PUBLISHABLE_KEY
+
+# Solo en el servidor. Sin clave se utiliza el catálogo de ejemplo incluido.
+EXERCISE_DB_API_KEY=
+EXERCISE_DB_HOST=exercisedb.p.rapidapi.com
+
+# URL de producción en Vercel. En desarrollo se usa http://localhost:3000.
+NEXT_PUBLIC_SITE_URL=http://localhost:3000
